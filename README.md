@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nfluk
-- 👀 I’m interested in coding, sports, and philosopy.
+- 👀 I’m interested in philosopy, coding, mma, and 80's & 90's action movies.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
